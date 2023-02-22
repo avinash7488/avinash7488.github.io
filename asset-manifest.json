@@ -1,21 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.38011165.js",
+    "main.js": "/static/js/main.74577647.js",
     "static/js/787.5b41a850.chunk.js": "/static/js/787.5b41a850.chunk.js",
+    "static/media/yoox_logo.png": "/static/media/yoox_logo.7bdff5adbcaa04be7aac.png",
+    "static/media/headphone-zone.png": "/static/media/headphone-zone.d9f7cd894ef909eaea4c.png",
+    "static/media/BUYLANCE-logo.png": "/static/media/BUYLANCE-logo.b5d5204b8bad10d45e0b.png",
+    "static/media/assos-logo.png": "/static/media/assos-logo.2c3dc86a11bea8cbb417.png",
     "static/media/avinash_profile-pic.png": "/static/media/avinash_profile-pic.8cf0913462d3b8020ecc.png",
     "static/media/Avinash.resume.pdf": "/static/media/Avinash.resume.31aaf849500263781cee.pdf",
-    "static/media/headphone-zone.png": "/static/media/headphone-zone.3a6b07fb39bde003a2bb.png",
     "static/media/github.png": "/static/media/github.bc10a729b229430eb4bf.png",
-    "static/media/yoox_logo.png": "/static/media/yoox_logo.c98da7551ed3c786bfaf.png",
+    "static/media/typescript.png": "/static/media/typescript.af108db04a54d784da9b.png",
     "static/media/react.png": "/static/media/react.b76a14371027e024020e.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.38011165.js.map": "/static/js/main.38011165.js.map",
+    "main.74577647.js.map": "/static/js/main.74577647.js.map",
     "787.5b41a850.chunk.js.map": "/static/js/787.5b41a850.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.38011165.js"
+    "static/js/main.74577647.js"
   ]
 }
